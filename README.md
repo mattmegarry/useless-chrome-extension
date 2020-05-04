@@ -1,2 +1,3 @@
-# useless-chrome-extension
-A completely useless chrome extension, built so I could learn about building chrome extensions
+# learning-chrome-extension-development
+
+Learning to build chrome extensions
